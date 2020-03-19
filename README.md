@@ -4,7 +4,7 @@
 
 [American Community Survey data on college majors and job outcomes](https://github.com/fivethirtyeight/data/tree/master/college-majors)
 
-*use : [recent-grads](https://github.com/fivethirtyeight/data/blob/master/college-majors/recent-grads.csv)
+* use : [recent-grads](https://github.com/fivethirtyeight/data/blob/master/college-majors/recent-grads.csv)
 
 **The data dictionary**
 
@@ -23,4 +23,11 @@
 
 **Instructions**
 
-loaded a subset of the data into a table named recent_grads in a database. The subset contains the 2010-2012 data for recent college grads only. The database file we'll be working with is called jobs.db
+Loaded a subset of the data into a table named recent_grads in a database. The subset contains the 2010-2012 data for recent college grads only. The database file we'll be working with is called jobs.db
+
+**Library**
+* pysqlite 
+
+[Install](https://pypi.org/project/pysqlite/)
+
+[Documentation](https://pysqlite.readthedocs.io/en/latest/sqlite3.html)
