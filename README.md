@@ -4,6 +4,8 @@
 
 [American Community Survey data on college majors and job outcomes](https://github.com/fivethirtyeight/data/tree/master/college-majors)
 
+*use : [recent-grads](https://github.com/fivethirtyeight/data/blob/master/college-majors/recent-grads.csv)
+
 **The data dictionary**
 
 |Column|Descriptions|
