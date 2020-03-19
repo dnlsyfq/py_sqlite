@@ -26,7 +26,7 @@
 Loaded a subset of the data into a table named recent_grads in a database. The subset contains the 2010-2012 data for recent college grads only. The database file we'll be working with is called jobs.db
 
 **Library**
-* pysqlite 
+pysqlite  **if python2 
 
 [Install](https://pypi.org/project/pysqlite/)
 
