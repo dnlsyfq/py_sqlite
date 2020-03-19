@@ -51,5 +51,3 @@ SQLite restricts access to the database file when we're connected to a database,
 When we call the fetchone() method, the Cursor instance will return a single result, and then increment its internal counter by 1. This means that if we call fetchone() again, the Cursor instance will actually return the second tuple in the results set (and increment by 1 again).
 
 To return a single result (as a tuple), we use the Cursor method fetchone(). To return n results, we use the Cursor method fetchmany().
-
-conn.close()
